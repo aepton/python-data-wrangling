@@ -9,8 +9,8 @@ TODO
 (TODO - Add more?)
 
 1. Install the dependencies.    
-`pip install -r requirements.txt`.  
-2. Launch the notebook. (Your browser will open automatically.)
+`pip install -r requirements.txt`
+2. Launch the notebook. (Your browser will open automatically.)    
 `jupyter notebook`   
 
 If you are looking to preview it and not run it, you can [check it out using nbviewer](http://nbviewer.jupyter.org/github/aepton/python-data-wrangling/blob/master/Data%20Wrangling%20with%20Python.ipynb).
