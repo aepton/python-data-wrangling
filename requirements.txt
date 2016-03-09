@@ -1,1 +1,3 @@
 pip install ipython[all]
+
+agate
