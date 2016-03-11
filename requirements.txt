@@ -1,4 +1,9 @@
-pip install ipython[all]
-
-agate
-usa_spending
+agate==1.3.0
+Babel==2.2.0
+geopy==1.11.0
+isodate==0.5.4
+parsedatetime==2.1
+pytimeparse==1.1.5
+pytz==2015.7
+six==1.10.0
+usa-spending==1.1
