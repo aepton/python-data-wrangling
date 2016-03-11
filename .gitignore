@@ -62,4 +62,5 @@ target/
 .ipynb_checkpoints
 
 data/new_file.csv
+data/agate_*
 .DS_Store
